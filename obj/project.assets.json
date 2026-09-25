@@ -2465,11 +2465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Pet_Adoption_API\\Pet_Adoption_API.csproj",
+      "projectUniqueName": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Pet_Adoption_API\\Pet_Adoption_API.csproj",
       "projectName": "Pet_Adoption_API",
-      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Pet_Adoption_API\\Pet_Adoption_API.csproj",
+      "projectPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Pet_Adoption_API\\Pet_Adoption_API.csproj",
       "packagesPath": "C:\\Users\\brand\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\CSA Combine\\Homework\\Pet_Adoption_API\\obj\\",
+      "outputPath": "C:\\Users\\brand\\OneDrive\\Desktop\\Repositories\\Pet_Adoption_API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\brand\\AppData\\Roaming\\NuGet\\NuGet.Config"
