@@ -11,10 +11,28 @@ namespace Pet_Adoption_API.Services
 
         Pets GetById(int id);
 
-        Pets Create(Pets item);
+        Pets AddPets(Pets newpet);
+
+        
+
+        Pets PatchPets(int id, Pets changes);
 
         bool Update(int id, Pets item);
 
         bool Delete(int id);
+
+
+         List<Staff> GetAllStaff();
+
+
+        List<Staff> GetStaffByCategory(string Category);
+
+        Staff GetStaffById(int id);
+
+        Staff Create(Staff item);
+
+        bool Update(int id, Staff item);
+
+        bool DeleteStaff(int id);
     }
 }

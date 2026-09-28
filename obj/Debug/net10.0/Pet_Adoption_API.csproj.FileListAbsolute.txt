@@ -146,3 +146,15 @@ C:\Users\brand\OneDrive\Desktop\Repositories\Pet_Adoption_API\obj\Debug\net10.0\
 C:\Users\brand\OneDrive\Desktop\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.pdb
 C:\Users\brand\OneDrive\Desktop\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.genruntimeconfig.cache
 C:\Users\brand\OneDrive\Desktop\Repositories\Pet_Adoption_API\obj\Debug\net10.0\ref\Pet_Adoption_API.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.csproj.AssemblyReference.cache
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.AssemblyInfoInputs.cache
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.AssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.csproj.CoreCompileInputs.cache
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.sourcelink.json
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\refint\Pet_Adoption_API.dll
+C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.pdb
