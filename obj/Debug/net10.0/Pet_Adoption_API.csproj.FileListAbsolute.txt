@@ -158,3 +158,15 @@ C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.dll
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\refint\Pet_Adoption_API.dll
 C:\Users\brand\OneDrive\Desktop\CSA Combine\Homework\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.pdb
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.csproj.AssemblyReference.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.AssemblyInfoInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.AssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.csproj.CoreCompileInputs.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.sourcelink.json
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\refint\Pet_Adoption_API.dll
+C:\Users\sirpi\OneDrive\Documents\Repositories\Pet_Adoption_API\obj\Debug\net10.0\Pet_Adoption_API.pdb
